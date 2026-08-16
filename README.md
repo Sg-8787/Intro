@@ -15,7 +15,7 @@ Artificial Intelligence, Machine Learning, Generative AI, and Software Developme
 
 ### 🛠️ Tech Stack
 
-**Languages:** C, C++, Python, JavaScript  
+**Languages:** C, C++, Python, JavaScript 
 **AI/ML:** Scikit-learn, Numpy, Pandas TensorFlow, PyTorch, LLMs, RAG  
 **Web:** HTML, CSS, JavaScript, React, Node.js, Express.js  
 **Database:** MongoDB, MySQL  
@@ -32,8 +32,6 @@ Artificial Intelligence, Machine Learning, Generative AI, and Software Developme
 ### 📫 Connect With Me
 
 - GitHub: [Sg-8787](https://github.com/Sg-8787)
-- LinkedIn:saurabh-gupta23
-
+- LinkedIn: saurabh-gupta23
 ---
-
 ⭐ Always learning, building, and exploring new technologies.
